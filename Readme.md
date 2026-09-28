@@ -1,5 +1,5 @@
 
-# Project 7 – Baltimore Homicide Dashboard (2021–2025)
+# Baltimore Homicide Dashboard (2021–2025)
 
 This project uses **R + RShiny** to scrape, clean, and visualize Baltimore City homicide data from **Cham’s Page** for the years **2021–2025**.  
 All five years are combined into one dataset and displayed through an interactive dashboard.
