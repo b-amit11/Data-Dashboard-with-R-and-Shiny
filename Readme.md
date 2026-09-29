@@ -30,6 +30,10 @@ All five years are combined into one dataset and displayed through an interactiv
 
    ```bash
    ./run.sh
+   ```
 
-Open your browser at:
-http://localhost:3838
+4. Open `http://localhost:3838` in a browser.
+
+## Data source and caveat
+
+The dashboard scrapes public tables from Cham's Page at startup. Results depend on source availability and the page structure; this project is intended for exploratory analysis rather than an official record.
